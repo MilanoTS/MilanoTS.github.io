@@ -2137,7 +2137,7 @@
 
 		.image.fit {
 			display: block;
-			margin: 2em;
+			padding: 2em;
 			width: 100%;
 		}
 
